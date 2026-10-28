@@ -1,0 +1,21 @@
+/*
+style.css
+demonstrates basic CSS rules
+*/
+
+h1 {
+ font-family: "Comic Sans MS", Arial, sans-serif;
+ color: #FFFFFF;
+}
+
+p {
+ color:#000000;
+ font-size:18pt;
+}
+ol {
+ list-style: lower-alpha;
+}
+
+body {
+ background-color: #FF6E5A;
+}
